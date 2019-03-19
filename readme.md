@@ -32,6 +32,8 @@ Fabrication of small devices and pcb then soldering
 
 6. 2d printers
 
+![lab2](img/lab-2.jpg)
+
 7. CNC (Shopbot)
 
 ![lab1](img/lab-1.jpg)

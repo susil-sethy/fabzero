@@ -39,13 +39,15 @@ The instructions are as given below
 1. Power on the controller first
 2. Switch on the controller and set the origin zero using the zero plate and aligator 
 3. Press the reset switch to start the machine to move
-4. Before starting the project it is mandatory to follow the procedures like putting the ear 
+4. Before starting the project it is mandatory to follow the procedures like putting the ear guard (Head      Phone), Mouth guard (Mask) and other necessary precautionary measures.
+5. During the project it is mandatory to vacate the room and only the Lab manager and another person will be present with the safety set to start the job.
+
 
 6. Saw
 
 a. Scroll saw (for cutting woods)
 
-b. Bann saw
+b. Band saw
 
 c. Object water jet
 

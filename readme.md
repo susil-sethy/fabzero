@@ -2,59 +2,59 @@ Welcome to the fabzero wiki!
 # TUTORIAL FOR DAY1, 18.03.2019
 
 
-initially tutor explained there are two equipment rooms
-1. noisy and meshy (because lots of wood cutting, dust collector with motor generating huge noise)
-2. clean room (no dust generation)
+Initially tutor explained there are two equipment rooms
+1. Noisy and meshy (because lots of wood cutting, dust collector with motor generating huge noise)
+2. Clean room (no dust generation)
 
 ## THEORY
 
-1. we studied about vinyle cutter machine. 
+1. We studied about vinyle cutter machine. 
 
-a. how to fix the cutting bit in the vinyle spindle.
-b. how to load the vinyle roll etc.
+a. How to fix the cutting bit in the vinyle spindle.
+b. How to load the vinyle roll etc.
 
-2. laser cutter (co2 laser)
-a. laser cutter can cut natural materials, wood leather 
-b.after burning we have to wait minimum one minute to purify the smoke/fume by the purifier which contains 3 layers of filters
-a. filter for big particles (pre filter bags)
-b. filter for medium particles (hepa filter)
-c. filter for small particles (carbon filter, chemical filter)
+2. Laser cutter (co2 laser)
+a. Laser cutter can cut natural materials, wood leather 
+b. After burning we have to wait minimum one minute to purify the smoke/fume by the purifier which contains 3 layers of filters
+a. Filter for big particles (pre filter bags)
+b. Filter for medium particles (Hepa filter)
+c. Filter for small particles (carbon filter, chemical filter)
 
-3. milling machine (mini cnc)
+3. Milling machine (mini CNC)
 
-fabrication of small devices and pcb then soldering
+Fabrication of small devices and pcb then soldering
 
-4. electronics for testing the devices (oscilloscope, pulse generator etc.)
+4. Electronics for testing the devices (oscilloscope, pulse generator etc.)
 
-5. 3d printer (fuse deposition material) sindoh, printing 1.75 mm to 0.4 mm
+5. 3d printer (fuse deposition material) Sindoh, printing 1.75 mm to 0.4 mm
 
-build plate, cartridge, filament of different colors
+    Build plate, cartridge, filament of different colors
 
 6. 2d printers
 
-7. cnc (shopbot)
+7. CNC (Shopbot)
 
-the instructions are as given below
+The instructions are as given below
 
-1. power on the controller first
-2. switch on the controller and set the origin zero using the zero plate and aligator 
-3. press the reset switch to start the machine to move
-4. before starting the project it is mandatory to follow the procedures like putting the ear 
+1. Power on the controller first
+2. Switch on the controller and set the origin zero using the zero plate and aligator 
+3. Press the reset switch to start the machine to move
+4. Before starting the project it is mandatory to follow the procedures like putting the ear 
 
-6. saw
+6. Saw
 
-a. scroll saw (for cutting woods)
+a. Scroll saw (for cutting woods)
 
-b. bann saw
+b. Bann saw
 
-c. object water jet
-
-
+c. Object water jet
 
 
-# tutorial for day 2, 19.03.2019
 
-## installing visual studio code for practical 
+
+# Tutorial for day 2, 19.03.2019
+
+## Installing Visual studio code, Inkscape, Cura, Git  for practical 
 
 
 

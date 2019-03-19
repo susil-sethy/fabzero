@@ -34,6 +34,8 @@ Fabrication of small devices and pcb then soldering
 
 7. CNC (Shopbot)
 
+![lab1](img/lab-1.jpg)
+
 The instructions are as given below
 
 1. Power on the controller first

@@ -79,6 +79,13 @@ c. Object water jet
 
 ## Installing Visual studio code, Inkscape, Cura, Git  for practical 
 
+# Tutorial for day 3, 20.03.2019
+
+Installed KiCad for designing, 3D WOX for printing 3D objects in Sindoh, Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
+
+
+
+
 
 [Go to 3D Printer](3dprinter.md)
 

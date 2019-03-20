@@ -8,37 +8,43 @@ Initially tutor explained there are two equipment rooms
 
 ## THEORY
 
-1. We studied about vinyle cutter machine. 
+## 1. We studied about vinyle cutter machine. 
 
 a. How to fix the cutting bit in the vinyle spindle.
 b. How to load the vinyle roll etc.
 
-2. Laser cutter (co2 laser)
+## 2. Laser cutter (co2 laser)
 a. Laser cutter can cut natural materials, wood leather 
 b. After burning we have to wait minimum one minute to purify the smoke/fume by the purifier which contains 3 layers of filters
 a. Filter for big particles (pre filter bags)
 b. Filter for medium particles (Hepa filter)
 c. Filter for small particles (carbon filter, chemical filter)
 
-3. Milling machine (mini CNC)
+## 3. Milling machine (mini CNC)
 
 Fabrication of small devices and pcb then soldering
 
-4. Electronics for testing the devices (oscilloscope, pulse generator etc.)
+## 4. Electronics for testing the devices (oscilloscope, pulse generator etc.)
 
-5. 3d printer (fuse deposition material) Sindoh, printing 1.75 mm to 0.4 mm
+## 5. 3D printer (fuse deposition material) Sindoh,
 
-    Build plate, cartridge, filament of different colors
 
-6. 2d printers
+ printing 1.75 mm to 0.4 mm
+
+Build plate, cartridge, filament of different colors
+
+## 6. 2D printers
+
+
 
 ![lab2](img/lab-2.jpg)
 
-7. CNC (Shopbot)
+## 7. CNC (Shopbot)
+
 
 ![lab1](img/lab-1.jpg)
 
-The instructions are as given below
+## The instructions are as given below
 
 1. Power on the controller first
 

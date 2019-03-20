@@ -4,9 +4,12 @@
 # TUTORIAL FOR DAY1, 18.03.2019
 
 
-Initially tutor explained there are two equipment rooms
-1. Noisy and meshy (because lots of wood cutting, dust collector with motor generating huge noise)
-2. Clean room (no dust generation)
+Initially tutor explained that there are basically two rooms identified for installing Fablab equipments.
+
+1.	Noisy & Messy Room: Where machines like Computer Numeric Control (CNC) and other accessories such as       Band Saw, Scroll Saw, Dust collecting machine etc. are installed.
+
+2.  Clean & dust free Room: Where machines like cutting machine such as Vinyle cutter, Laser cutter,           Milling machine (Mini CNC), Electronics (Oscilloscope, Pulse Generator etc.), 3D Printers (Fuse            Deposition Manufacturing, FDM, by melting PLA filaments)
+
 
 ## THEORY
 

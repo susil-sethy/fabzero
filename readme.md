@@ -73,4 +73,16 @@ c. Object water jet
 ## Installing Visual studio code, Inkscape, Cura, Git  for practical 
 
 
+[Go to 3D Printer](3dprinter.md)
+
+[Go to laser cutter](lasercutter.md)
+
+[Go to monofab](monofab.md)
+
+[Go to Shopbot](shopbot.md)
+
+[Go to vinyle cutter](vinylecutter.md)
+
+
+
 

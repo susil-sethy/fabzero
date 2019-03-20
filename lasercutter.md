@@ -1,4 +1,4 @@
-Laser cutter (co2 laser)
+# Laser cutter (co2 laser)
 
 
 
@@ -7,3 +7,5 @@ b. After burning we have to wait minimum one minute to purify the smoke/fume by 
 a. Filter for big particles (pre filter bags)
 b. Filter for medium particles (HEPA filter)
 c. Filter for small particles (carbon filter, chemical filter)
+
+[Go to Home](readme.md)

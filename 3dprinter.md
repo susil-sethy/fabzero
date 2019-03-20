@@ -18,5 +18,6 @@ This machine is used to print 3D objects as per the design.
 
 The plastic used for 3D printing is Poly Lactic Acid (PLA) a bio-plastic. The printer heat the nozzle first and then the build bed/plate and then start printing.
 
+[Go to Home](readme.md)
 
 

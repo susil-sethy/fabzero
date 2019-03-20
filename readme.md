@@ -1,7 +1,7 @@
 
 # **Welcome to the fabzero wiki!**
 
-Name: Susil Sethy
+## Name: Susil Sethy
 
 # TUTORIAL FOR DAY1, 18.03.2019
 

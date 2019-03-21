@@ -84,7 +84,7 @@ c. Object water jet
 Installed KiCad for designing, 3D WOX for printing 3D objects in Sindoh, Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
 
 
-
+# Tutorial for day 4, 21.03.2019
 
 
 [Go to 3D Printer](3dprinter.md)

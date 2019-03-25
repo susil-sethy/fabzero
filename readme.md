@@ -103,6 +103,9 @@ First Designing the circuit in KiCAD
 
 The desired file should be listed in the bottom
 
+OK then Apply, Save Schematic & Continue
+
+Pressing F5 to go to the Schematic and drawing the routes
 
 
 

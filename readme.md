@@ -90,10 +90,22 @@ PCB Designing
 
 First Designing the circuit in KiCAD
  Then by pressing the icon Assign PCB footprints to schematic symbols (Adjucent to symbol NET)
+
  Select Preferences
+
  Manage Footprint Libraries
+
  Project specific Libraries
- 
+
+ Select Folder where the file is present
+
+ then OK
+
+The desired file should be listed in the bottom
+
+
+
+
 
 
 

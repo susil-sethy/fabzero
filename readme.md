@@ -86,6 +86,18 @@ Installed KiCad for designing, 3D WOX for printing 3D objects in Sindoh, Used In
 
 # Tutorial for day 4, 21.03.2019
 
+PCB Designing
+
+First Designing the circuit in KiCAD
+ Then by pressing the icon Assign PCB footprints to schematic symbols (Adjucent to symbol NET)
+ Select Preferences
+ Manage Footprint Libraries
+ Project specific Libraries
+ 
+
+
+
+
 
 [Go to 3D Printer](3dprinter.md)
 

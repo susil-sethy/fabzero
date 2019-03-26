@@ -1,6 +1,6 @@
 # Mini Milling Machine (Mini CNC)
 
-![monofab](img/srm20.png)
+![monofab](img/SRM-20.png)
 
 It is a machine to perform small fabrics with resolution of 1 micron.
 

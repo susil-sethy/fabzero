@@ -1,5 +1,7 @@
 # Mini Milling Machine (Mini CNC)
 
+![monofab](img/srm20.png)
+
 It is a machine to perform small fabrics with resolution of 1 micron.
 
 The build plate is 1x3/32 mm 

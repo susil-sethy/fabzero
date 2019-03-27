@@ -19,7 +19,7 @@ Initially tutor explained that there are basically two rooms identified for inst
 2.  Clean & dust free Room: Where machines like cutting machine such as Vinyle cutter, Laser cutter,           Milling machine (Mini CNC), Electronics (Oscilloscope, Pulse Generator etc.), 3D Printers (Fuse            Deposition Manufacturing, FDM, by melting PLA filaments)
 
 
-## THEORY
+## Theory
 
 ## 1. We studied about vinyle cutter machine. 
 

@@ -24,7 +24,7 @@ Initially tutor explained that there are basically two rooms identified for inst
 ## 1. We studied about vinyle cutter machine. 
 
 a. How to fix the cutting bit in the vinyle spindle.
-b. How to load the vinyle roll etc.
+b. How to load the vinyle roll etc. and start cutting
 
 ## 2. Laser cutter (co2 laser)
 a. Laser cutter can cut natural materials, wood leather 

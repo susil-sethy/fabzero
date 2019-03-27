@@ -1,6 +1,6 @@
 # Laser cutter (co2 laser)
 
-
+![laser cutter](img/laser-cutter.jpg)
 
 a. Laser cutter can cut natural materials, wood leather 
 b. After burning we have to wait minimum one minute to purify the smoke/fume by the purifier which            contains 3 layers of filters

@@ -47,8 +47,4 @@ The milling tool can perform 2 port cutting, 4 port cutting and could be flat no
 ![pcb](img/pcb.jpeg)
 
 
-![pcb-cutting](img/pcb-cutting.jpeg)
-
-![pcb-cutting1](img/pcb-cutting1.jpeg)
-
 [Go to Home](readme.md)

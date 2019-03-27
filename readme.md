@@ -20,7 +20,11 @@ Initially tutor explained that there are basically two rooms identified for inst
 
 1.	Noisy & Messy Room: Where machines like Computer Numeric Control (CNC) and other accessories such as       Band Saw, Scroll Saw, Dust collecting machine etc. are installed.
 
+![lab1](img/lab-1.jpg)
+
 2.  Clean & dust free Room: Where machines like cutting machine such as Vinyle cutter, Laser cutter,           Milling machine (Mini CNC), Electronics (Oscilloscope, Pulse Generator etc.), 3D Printers (Fuse            Deposition Manufacturing, FDM, by melting PLA filaments)
+
+![lab2](img/lab-2.jpg)
 
 
 ## Theory
@@ -54,12 +58,12 @@ Build plate, cartridge, filament of different colors
 
 
 
-![lab2](img/lab-2.jpg)
+
 
 ## 7. CNC (Shopbot)
 
 
-![lab1](img/lab-1.jpg)
+
 
 ## The instructions are as given below
 

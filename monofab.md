@@ -30,7 +30,17 @@ The milling tool can perform 2 port cutting, 4 port cutting and could be flat no
 ![menu-srm20](img/vpanel-srm20.png)
 
 
-9. 
+9. Then move the bit in Z axis to touch the board and tighten it properly.
+
+10. Then set Z as zero (from user coordinate system, top right corner of the vpanel shown in fig above)
+
+11. Then up the bit by 2 mm in Z axis and press cut.
+
+12. Load the file to start the cut (cut.rml) and press output.
+
+13. Then the job will start cutting the edge of the circuit.
+
+
 
 
 ![pcb-cutting](img/pcb-cutting.jpeg)

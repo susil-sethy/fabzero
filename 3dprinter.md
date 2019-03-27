@@ -1,5 +1,7 @@
 # 3D Printer (FDM), SINDOH
 
+![menu-sindoh](img/sindoh.png)
+
 
 This machine is used to print 3D objects as per the design.
 

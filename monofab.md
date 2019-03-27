@@ -26,7 +26,11 @@ The milling tool can perform 2 port cutting, 4 port cutting and could be flat no
 
 8. After changing the bit press XY to move to the origin (from bottom MENU, To Origin)
 
+
 ![menu-srm20](img/vpanel-srm20.png)
+
+
+9. 
 
 
 ![pcb-cutting](img/pcb-cutting.jpeg)

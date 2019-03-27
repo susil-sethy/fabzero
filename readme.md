@@ -3,7 +3,11 @@
 
 ## Name: Susil Sethy
 
-# TUTORIAL FOR DAY1, 18.03.2019
+## Basic Profile
+
+Myself Susil sethy
+
+
 
 
 Initially tutor explained that there are basically two rooms identified for installing Fablab equipments.

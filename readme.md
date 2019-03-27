@@ -80,22 +80,18 @@ c. Object water jet
 
 
 
+## Installing Visual studio code, Inkscape, Cura, Git  for practical session
 
-# Tutorial for day 2, 19.03.2019
 
-## Installing Visual studio code, Inkscape, Cura, Git  for practical 
-
-# Tutorial for day 3, 20.03.2019
 
 Installed KiCad for designing, 3D WOX for printing 3D objects in Sindoh, Used Inkscape to design the sticker to be cut by vinyle cutter (Roland), Used Vinyle cutter to cut sticker in name for putting in Laptop.
 
 
-# Tutorial for day 4, 21.03.2019
 
 PCB Designing
 
 First Designing the circuit in KiCAD
- Then by pressing the icon Assign PCB footprints to schematic symbols (Adjucent to symbol NET)
+ Then by pressing the icon Assign PCB footprints to schematic symbols (adjucent to symbol NET)
 
  Select Preferences
 
@@ -114,16 +110,7 @@ OK then Apply, Save Schematic & Continue
 Pressing F5 to go to the Schematic and drawing the routes
 
 
-Using MonoFab
-
-1.
-
-
-
-
-
-# Tutorial for day 5, 25.03.2019
-
+![pcb](img/pcb.png)
 
 
 

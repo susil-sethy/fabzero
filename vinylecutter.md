@@ -1,5 +1,7 @@
 # Vinyle Cutter: (Roland):
 
+![vinyle cutter](img/vinyle-cutter.png)
+
 
  Machine that cuts vinyle in to different shapes as per design.
 

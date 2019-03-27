@@ -9,7 +9,7 @@ Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communic
 
 
 
-# Training Session
+## Training Session
 
 
 Initially tutor explained that there are basically two rooms identified for installing Fablab equipments.

@@ -5,7 +5,7 @@
 
 ## Basic Profile
 
-Myself Susil sethy
+Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communication Group. 
 
 
 

@@ -40,7 +40,11 @@ The milling tool can perform 2 port cutting, 4 port cutting and could be flat no
 
 13. Then the job will start cutting the edge of the circuit.
 
+14. Now the pcb is ready as shown below.
 
+
+
+![pcb](img/pcb.jpeg)
 
 
 ![pcb-cutting](img/pcb-cutting.jpeg)

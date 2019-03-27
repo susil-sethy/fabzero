@@ -1,5 +1,6 @@
 # CNC (Shopbot)
 
+![menu-shopbot](img/shopbot.jpg)
 
 ## Precautionary Majors
 

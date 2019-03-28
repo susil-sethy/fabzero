@@ -79,13 +79,11 @@ a. Scroll saw (for cutting small piece of woods)
 
 ![scrollsaw](img/scrollsaw.jpeg)
 
-![scroll-saw](img/scrollsaw.jpeg)
 
 b. Band saw
 
 ![bandsaw](img/bandsaw.jpeg)
 
-![band-saw](img/bandsaw.jpeg)
 
 
 ## Installing Visual studio code, Inkscape, Cura, Git  for practical session

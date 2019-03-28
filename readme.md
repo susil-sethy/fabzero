@@ -47,7 +47,16 @@ Fabrication of small devices and pcb then soldering
 
 ## 4. Electronics for testing the devices
 
-Oscilloscope, Pulse Generator etc.
+
+
+Oscilloscope            ![oscilloscope](img/oscilloscope.jpg)
+
+
+
+
+Pulse Generator         ![pulse generator](img/pulse-generator.jpg)
+
+
 
 ## 5. 3D printer (fuse deposition material) Sindoh,
 

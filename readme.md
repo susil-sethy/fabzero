@@ -76,11 +76,9 @@ Build plate, cartridge, filament of different colors
 ## 7. Cutting Saw
 
 a. Scroll saw (for cutting small piece of woods)
-
 ![scroll-saw](img/scroll-saw.jpeg)
 
 b. Band saw
-
 ![band-saw](img/band-saw.jpeg)
 
 

@@ -45,7 +45,9 @@ c. Filter for small particles (carbon filter, chemical filter)
 
 Fabrication of small devices and pcb then soldering
 
-## 4. Electronics for testing the devices (oscilloscope, pulse generator etc.)
+## 4. Electronics for testing the devices
+
+Oscilloscope, Pulse Generator etc.
 
 ## 5. 3D printer (fuse deposition material) Sindoh,
 
@@ -54,15 +56,8 @@ Fabrication of small devices and pcb then soldering
 
 Build plate, cartridge, filament of different colors
 
-## 6. 2D printers
 
-
-
-
-
-## 7. CNC (Shopbot)
-
-
+## 6. CNC (Shopbot)
 
 
 ## The instructions are as given below
@@ -78,13 +73,12 @@ Build plate, cartridge, filament of different colors
 5. During the project it is mandatory to vacate the room and only the Lab manager and operator will be present with the safety set to start the job with the door close in order to stop the dust to travel to the other rooms.
 
 
-6. Saw
+## 7. Cutting Saw
 
 a. Scroll saw (for cutting woods)
 
 b. Band saw
 
-c. Object water jet
 
 
 

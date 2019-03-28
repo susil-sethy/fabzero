@@ -77,12 +77,12 @@ Build plate, cartridge, filament of different colors
 
 a. Scroll saw (for cutting small piece of woods)
 
-![scrollsaw](img/scrollsaw.jpeg)
+![scrollsaw](img/scrollsaw.jpg)
 
 
 b. Band saw
 
-![bandsaw](img/bandsaw.jpeg)
+![bandsaw](img/bandsaw.jpg)
 
 
 

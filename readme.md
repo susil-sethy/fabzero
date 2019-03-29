@@ -7,6 +7,8 @@
 
 ## Name: Susil Sethy
 
+![susil sethy](img/psusil-sethy.jpeg)
+
 ## Basic Profile
 
 Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communication Group. I am one of the participant to undergo traing on FabLab.
@@ -122,12 +124,23 @@ The desired file should be listed in the bottom
 
 OK then Apply, Save Schematic & Continue
 
-Pressing F5 to go to the Schematic and drawing the routes
+Pressing F5 to go to the Schematic and drawing the routes as shown in figure below
 
 
 ![pcb](img/pcb.png)         
 
-![pcb](img/pcb-design.jpeg)
+Once the design is over the pcb needs to be milled using Monofab (mini CNC) as shown in the figure below
+
+![pcb1](img/pcb-milling.jpeg)
+
+The milled pcb is as shown in figure below
+
+![pcb2](img/pcb-cutting.jpeg)
+
+Then the pcb needs to be soldered with the required component and the final circuit is as given in the figure below.
+
+
+![pcb3](img/pcb-design.jpeg)
 
 
 

@@ -11,7 +11,7 @@
 
 ## Basic Profile
 
-Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communication Group. I am one of the participant to undergo traing on FabLab.
+Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communication Group. I am one of the participant to undergo traing on FabLab conducted by Fab foundation.
 
 
 

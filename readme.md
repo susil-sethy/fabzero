@@ -125,7 +125,9 @@ OK then Apply, Save Schematic & Continue
 Pressing F5 to go to the Schematic and drawing the routes
 
 
-![pcb](img/pcb.png)         ![pcb-design](img/pcb-design.jpg)
+![pcb](img/pcb.png)         
+
+![pcb-design](img/pcb-design.jpg)
 
 
 

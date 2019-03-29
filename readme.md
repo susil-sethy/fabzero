@@ -7,7 +7,7 @@
 
 ## Name: Susil Sethy
 
-![susil sethy](img/psusil-sethy.jpeg)
+![susil sethy](img/susil-sethy.jpeg)
 
 ## Basic Profile
 

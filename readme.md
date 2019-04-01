@@ -56,7 +56,7 @@ contains 3 layers of filters
 
 ## 3. Milling machine (mini CNC), Monofab
 
-![vinyle cutter](img/vinyle-cutter.png)
+![monofab](img/SRM-20.png)
 
 Fabrication of small devices and pcb then soldering
 

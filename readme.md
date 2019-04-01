@@ -11,7 +11,7 @@
 
 ## Basic Profile
 
-Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communication Group. I am one of the participant to undergo traing on FabLab conducted by Fab foundation.
+Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communication Group. I am one of the participant to undergo training on FabLab conducted by Fab foundation.
 
 
 
@@ -36,6 +36,7 @@ Initially tutor explained that there are basically two rooms identified for inst
 ![vinyle cutter](img/vinyle-cutter.png)
 
 a. How to fix the cutting bit in the vinyle spindle.
+
 b. How to load the vinyle roll etc. and start cutting
 
 ## 2. Laser cutter (co2 laser)

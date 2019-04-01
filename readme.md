@@ -33,10 +33,16 @@ Initially tutor explained that there are basically two rooms identified for inst
 
 ## 1. We studied about vinyle cutter machine. 
 
+![vinyle cutter](img/vinyle-cutter.png)
+
 a. How to fix the cutting bit in the vinyle spindle.
 b. How to load the vinyle roll etc. and start cutting
 
 ## 2. Laser cutter (co2 laser)
+
+![laser cutter](img/laser-cutter.jpg)
+
+
 a. Laser cutter can cut natural materials, wood leather 
 
 b. After burning we have to wait minimum one minute to purify the smoke/fume by the purifier which 

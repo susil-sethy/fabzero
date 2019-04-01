@@ -75,6 +75,8 @@ Pulse Generator         ![pulse generator](img/pulse-generator.jpg)
 
 ## 5. 3D printer (fuse deposition material) Sindoh,
 
+![menu-sindoh](img/sindoh.png)
+
 
  printing 1.75 mm to 0.4 mm
 

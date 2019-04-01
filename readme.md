@@ -48,7 +48,7 @@ contains 3 layers of filters
 
 3. Filter for small particles (carbon filter, chemical filter)
 
-## 3. Milling machine (mini CNC)
+## 3. Milling machine (mini CNC), Monofab
 
 Fabrication of small devices and pcb then soldering
 

@@ -86,6 +86,8 @@ Build plate, cartridge, filament of different colors
 
 ## 6. CNC (Shopbot)
 
+![menu-shopbot](img/shopbot.jpg)
+
 
 ## The instructions are as given below
 

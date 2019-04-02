@@ -31,7 +31,7 @@ Initially trainer explained that there are basically two rooms identified for in
 
 ## Theory
 
-## 1. We studied about vinyle cutter machine. 
+## 1. I studied about vinyle cutter machine. 
 
 ![vinyle cutter](img/vinyle-cutter.png)
 

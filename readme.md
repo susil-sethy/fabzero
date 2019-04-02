@@ -18,7 +18,7 @@ Myself Susil Sethy, working in STPI, Bhubaneswar since 1994 in the Data Communic
 ## Training Session
 
 
-Initially tutor explained that there are basically two rooms identified for installing Fablab equipments.
+Initially trainer explained that there are basically two rooms identified for installing Fablab equipments.
 
 1.	Noisy & Messy Room: Where machines like Computer Numeric Control (CNC) and other accessories such as       Band Saw, Scroll Saw, Dust collecting machine etc. are installed.
 

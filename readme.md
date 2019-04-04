@@ -146,6 +146,11 @@ Pressing F5 to go to the Schematic and drawing the routes as shown in figure bel
 
 Once the route completed it is required add graphic lines and then to PLOT with output file as SVG (only option F.cu & Edge cut)
 
+
+![pcb](img/pcb.png) 
+
+
+
 Then the SVG files needs to be opened in Inkscape and to be exported to PNG file before cutting to the actual size.
 
 The PNG file needs to be opened in fabmodules.org to output file of roland.mil after processing like this
@@ -157,7 +162,7 @@ The PNG file needs to be opened in fabmodules.org to output file of roland.mil a
 Now the pcb is ready
 
 
-![pcb](img/pcb.png)         
+        
 
 Once the design is over the pcb needs to be milled using Monofab (mini CNC) as shown in the figure below
 

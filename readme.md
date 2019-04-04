@@ -142,7 +142,19 @@ The desired file should be listed in the bottom
 
 OK then Apply, Save Schematic & Continue
 
-Pressing F5 to go to the Schematic and drawing the routes as shown in figure below
+Pressing F5 to go to the Schematic and drawing the routes as shown in figure below  
+
+Once the route completed it is required add graphic lines and then to PLOT with output file as SVG (only option F.cu & Edge cut)
+
+Then the SVG files needs to be opened in Inkscape and to be exported to PNG file before cutting to the actual size.
+
+The PNG file needs to be opened in fabmodules.org to output file of roland.mil after processing like this
+
+1. For trace the bit to be used as 1/64, dpi-2000, srm-20, x=0,y=0,z=0 with depth of .1 mm. this needs to be calculated before saving as .rml file.
+
+2. For cut the bit to be used as 1/32, dpi-2000, srm-20, x=0,y=0,z=0 with depth of 1.7 mm. this needs to be calculated before saving as .rml file.
+
+Now the pcb is ready
 
 
 ![pcb](img/pcb.png)         
